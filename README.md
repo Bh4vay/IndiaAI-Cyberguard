@@ -49,6 +49,6 @@ This project focuses on the classification of crime-related text data into speci
 
 For any inquiries, please contact:
 - **Name**: Bhavay Kaushal
-- **Email**: [Your Email Address]
+- **Email**: [bk4125@srmist.edu.in]
 - **Name**: Nishtha Dabas
-- **Email**: [Your Email Address]
+- **Email**: [nd9295@srmist.edu.in]
